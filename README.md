@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 I'm a Junior Full-Stack Developer and 3rd-year Computer Engineering student. I love crafting smooth web experiences and diving deep into coding challenges.<br><br>📚 Always exploring new tech and seeking collaboration. Let's connect and build something awesome!
 
 
